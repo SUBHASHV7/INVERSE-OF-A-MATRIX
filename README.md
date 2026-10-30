@@ -20,9 +20,9 @@ b=np.linalg.inv(a)
 print(b)
 ```
 ## Output:
-<img width="1030" height="765" alt="image" src="https://github.com/user-attachments/assets/a2f7e3ef-b462-428c-ad13-f0c78b6cc5cf" />
 
-<img width="1097" height="292" alt="image" src="https://github.com/user-attachments/assets/42f31fe5-c653-44d8-b625-260896a01bdf" />
+<img width="827" height="967" alt="image" src="https://github.com/user-attachments/assets/8fa10134-cadc-4a6c-bc3b-eace68164c74" />
+
 
 
 ## Result:
